@@ -3,4 +3,4 @@ This project showcases the power of computer vision and deep learning by combini
 
 Both modules operate independently, enabling users to explore facial structure and emotional states in real time. The project requires only a webcam and standard Python libraries, making it accessible for developers, researchers, or hobbyists interested in AI-driven facial analysis. Whether you want to build interactive applications, mood-aware systems, or simply learn more about facial recognition technology, this repository offers a solid foundation to start with.
 
-Feel free to modify and extend the code to fit your specific use cases. The combination of detailed facial landmarks and emotion detection opens up exciting possibilities in human-computer interaction, psychology studies, and creative projects involving facial expression and behavior analysis.
+
